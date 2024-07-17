@@ -1,0 +1,8 @@
+Exsitem 3 maneiras de aplicar o CSS:
+
+css inline - junto à tag (menos recomendada)
+	- deverão ser colocadas em todas as linhas que deseja aplicar. Muito trabalhoso ("50 títulos")
+	- dificulta a manutenção
+	- difícil de distinguir o que é conteúdo e o que é estilo
+
+css local - 

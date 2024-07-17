@@ -1,0 +1,11 @@
+Exsitem 3 maneiras de aplicar o CSS:
+
+css inline - junto à tag (menos recomendada)
+	- deverão ser colocadas em todas as linhas que deseja aplicar. Muito trabalhoso ("50 títulos") (desvantagem)
+	- dificulta a manutenção (desvantagem)
+	- difícil de distinguir o que é conteúdo e o que é estilo (desvantagem)
+
+css local - tag <style> criada dentro da <head>
+	- fica mais fácil de diferenciar a parte do conteúdo e da parte do estilo, separados visualmente (vantagem)
+	- o estilo ocupa muito mais linhas do que o HTML (desvantagem)
+	- caso haja mais páginas, o css deverá ser copiado e colado em todas as páginas (desvantagem)
